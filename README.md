@@ -58,7 +58,7 @@
 
 ---
 
-## 🧠 Codewars / LeetCode (если появятся)
+## 🧠 Codewars / LeetCode 
 <p align="center">
   <img src="https://www.codewars.com/users/USERNAME/badges/large">
 </p>
